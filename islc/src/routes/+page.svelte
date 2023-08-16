@@ -3,4 +3,4 @@
 <p>You can find some guides related to payment terminals under <a href="/banking">Banking</a>.</p>
 <p>More tools and guides can be found under <a href="/more">More</a>.</p>
 
-<div style="color:red;">This site is designed for mobile users and is not optimized for desktop viewing (page elements may be scaled incorrectly)!</div>
+<div style="color:red;"><i>Note: This site is designed for mobile users and is not optimized for desktop viewing (page elements may be scaled incorrectly)!</i></div>
