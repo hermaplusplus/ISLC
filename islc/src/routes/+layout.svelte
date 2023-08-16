@@ -8,6 +8,8 @@
 
   gtag('config', 'G-5GP9ZF2MVK');
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886087880659292"
+     crossorigin="anonymous"></script>
 </svelte:head>
 
 <nav>
