@@ -41,11 +41,12 @@
 { #each sections as sec }
     <br>
     <a href="/islc/{ sec.slug }" class="navi">
-        <div style="width: 90%; padding: 1em; background: #e73841; border-radius: .5em; box-shadow: 0 0 .3em #e73841d1;">
+        <div style="width: fit-screen; padding: 1em; background: #e73841; border-radius: .5em; box-shadow: 0 0 .3em #e73841d1;">
             <h3><b>{ sec.title }</b></h3>
         </div>
     </a>
 { /each }
+
 <style>
     a.navi {
 		color: white;
