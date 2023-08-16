@@ -13,11 +13,11 @@
 </svelte:head>
 
 <nav>
-    <a href="/">🍕</a>
-    <a href="/">Home</a>
-    <a href="/islc">ISLC</a>
-    <a href="/banking">Banking</a>
-    <a href="/more">More</a>
+    <a href="/" class="navi">🍕</a>
+    <a href="/" class="navi">Home</a>
+    <a href="/islc" class="navi">ISLC</a>
+    <a href="/banking" class="navi">Banking</a>
+    <a href="/more" class="navi">More</a>
 </nav>
 
 <slot />
@@ -48,4 +48,16 @@
       box-shadow: 0 0 .3em #999;
       background: #FFFA;
     }
+
+    a.navi {
+		  	color: white;
+		}
+
+		a.navi:hover {
+			color: white;
+		}
+
+		a.navi:active {
+			color: white;
+		}
 </style>
