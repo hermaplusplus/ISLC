@@ -26,7 +26,11 @@
 </script>
 
 <h1>ISLC: {data.cat.title}</h1>
+
 <h3><a href="/islc">← Return to categories</a></h3>
+
+<hr>
+
 { #each data.cat.tags as tag }
 <table width="100%" style="padding:0.5em">
     <tr>
@@ -57,14 +61,9 @@
     </tr>
 </table>
 <hr>
-<!--<p>
-    <b>{tag.name}</b><br>
-    {tag.note}<br>
-    {day}.{month}<br>
-    {RolloverDay(tag.ready)}.{RolloverMonth(tag.ready)}<br>
-    {RolloverDay(tag.discard)}.{RolloverMonth(tag.discard)}
-</p>-->
 { /each }
+
+<h3><a href="/islc">← Return to categories</a></h3>
 
 <style>
     table.tag, th.tag, td.tag {

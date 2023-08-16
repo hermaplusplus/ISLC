@@ -148,7 +148,7 @@ export const tags = [
                 discard: 3
             },
             {
-                name: "",
+                name: "Garlic Sprinkle Seasoning",
                 note: "",
                 ready: 0,
                 discard: 27
