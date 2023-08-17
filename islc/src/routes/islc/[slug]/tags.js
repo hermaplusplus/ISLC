@@ -34,6 +34,12 @@ export const tags = [
                 discard: 6
             },
             {
+                name: "Nacho & Wedges Salsa",
+                note: "",
+                ready: 0,
+                discard: 13
+            },
+            {
                 name: "Wing Street Sauces",
                 note: "Store chilled overnight. Use ambient.",
                 ready: 0,
@@ -77,9 +83,9 @@ export const tags = [
             },
             {
                 name: "Roquito Pearls",
-                note: "Discard after 1 month if kept inside vinegar. Keep chilled.",
+                note: "Discard at End of Day 3 (including the first day) if not kept inside vinegar. Keep chilled.",
                 ready: 0,
-                discard: 2
+                discard: 0
             }
         ]
     },
@@ -91,7 +97,7 @@ export const tags = [
                 name: "Cookie Dough",
                 note: "All flavours.",
                 ready: 1,
-                discard: 4
+                discard: 14
             }
         ]
     },
@@ -136,16 +142,10 @@ export const tags = [
                 discard: 2
             },
             {
-                name: "Pan Dough",
-                note: "Defrost 6-24h, optimal defrost 12-18h. Retard for 1 hour after proofing, discard 26 hours after retard.",
-                ready: 1,
-                discard: 2
-            },
-            {
-                name: "Cheesy Garlic Tear & Share",
+                name: "Thin & Crispy Dough (BNY)",
                 note: "",
                 ready: 1,
-                discard: 3
+                discard: 2
             },
             {
                 name: "Garlic Sprinkle Seasoning",

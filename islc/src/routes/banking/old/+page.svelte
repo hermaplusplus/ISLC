@@ -3,6 +3,7 @@
 <hr>
 
 <h2>X-Totals, Z-Totals</h2>
+<p>Note: This procedure should only be done by an authorized person.</p>
 <p>Note: X-Totals do <b>not</b> reset card totals. Z-Totals <b>do</b> reset card totals.</p>
 <ol>
     <li><code>Menu</code> <code>Menu</code> to enter supervisor menu.</li>
@@ -15,6 +16,7 @@
 <hr>
 
 <h2>End-of-Day Banking</h2>
+<p>Note: This procedure should only be done by an authorized person.</p>
 <ol>
     <li><code>Menu</code> <code>Menu</code> to enter supervisor menu.</li>
     <li><code>Enter</code> to select 'Totals'.</li>

@@ -13,11 +13,10 @@
 </svelte:head>
 
 <nav>
-    <a href="/" class="navi">🍕</a>
-    <a href="/" class="navi">Home</a>
-    <a href="/islc" class="navi">ISLC</a>
+    <a href="/" class="navi">🍕 Home</a>
+    <a href="/islc" class="navi">ISLC (Dates)</a>
     <a href="/banking" class="navi">Banking</a>
-    <a href="/more" class="navi">More</a>
+    <!--<a href="/more" class="navi">More</a>-->
 </nav>
 
 <slot />
