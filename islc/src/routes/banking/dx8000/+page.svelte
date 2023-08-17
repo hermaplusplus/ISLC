@@ -31,7 +31,7 @@
 </ol>
 <p>Note: You should return the terminal to the 'Customer Present' mode using steps 1-3, but selecting 'Customer Present' instead.</p>
 
-<hr>
+<!--<hr>
 
 <h2>X-Totals, Z-Totals</h2>
 <p>Note: This procedure should only be done by an authorized person.</p>
@@ -59,7 +59,7 @@
 </ol>
 <p>You will likely not need any numbers from this section*.</p>
 
-<hr>
+<hr>-->
 
 <p>Please keep in mind that in most cases, thermal printer paper is <b>not</b> recyclable.</p>
 <p><i>*YMMV. See our <a href="/disclaimer" target="_blank">Disclaimer</a>.</i></p>
