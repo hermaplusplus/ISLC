@@ -57,9 +57,9 @@
     <li>Tap 'Yes'.</li>
     <li>Tap 'All' for all card types.</li>
 </ol>
-<p>You will likely not need any numbers from this section*.</p>
+<p>You will likely not need any numbers from this section*.</p>-->
 
-<hr>-->
+<hr>
 
 <p>Please keep in mind that in most cases, thermal printer paper is <b>not</b> recyclable.</p>
 <p><i>*YMMV. See our <a href="/disclaimer" target="_blank">Disclaimer</a>.</i></p>
