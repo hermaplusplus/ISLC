@@ -31,7 +31,7 @@
 </ol>
 <p>Note: You should return the terminal to the 'Customer Present' mode using steps 1-3, but selecting 'Customer Present' instead.</p>
 
-<hr>
+<!--<hr>
 
 <h2>X-Totals, Z-Totals</h2>
 <p>Note: This procedure should only be done by an authorized person.</p>
@@ -57,7 +57,7 @@
     <li>Tap 'Yes'.</li>
     <li>Tap 'All' for all card types.</li>
 </ol>
-<p>You will likely not need any numbers from this section*.</p>
+<p>You will likely not need any numbers from this section*.</p>-->
 
 <hr>
 
